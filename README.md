@@ -45,3 +45,4 @@ Para mostrar más de una pantalla (como Tienda / Panel admin en Mola), agregá m
 ## Publicar en Vercel
 1. Creá un repo `portfolio` en GitHub y subí esta carpeta.
 2. En vercel.com → Add New → Project → importá el repo → Deploy (no hay comando de build).
+ .
